@@ -1,0 +1,12 @@
+h1 {
+    font-size: 165%;
+    font-weight: normal;
+}
+
+p {
+    color: green;
+
+}
+footer p {
+    color: orange;
+}
